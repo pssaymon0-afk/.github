@@ -1,4 +1,14 @@
-<h1 align="center">Run JavaScript <a href="https://nodejs.org/en/download">Everywhere</a>.</h1><br>
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/তোমারইউজারনেম/khelaghor.git
+git push -u origin main git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/তোমারইউজারনেম/khelaghor.git
+git push -u origin main <h1 align="center">Run JavaScript <a href="https://nodejs.org/en/download">Everywhere</a>.</h1><br>
 
 <p align="center">
   <a href="https://nodejs.org/">
